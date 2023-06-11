@@ -1,0 +1,198 @@
+[    2.099134] r8169 0000:0a:00.0 enp10s0: renamed from eth0
+[    2.101430] MXM: GUID detected in BIOS
+[    2.102192] checking generic (fb000000 300000) vs hw (c0000000 10000000)
+[    2.102194] checking generic (fb000000 300000) vs hw (fa000000 2000000)
+[    2.102195] fb: switching to nouveaufb from EFI VGA
+[    2.102872] Console: switching to colour dummy device 80x25
+[    2.102997] hidraw: raw HID events driver (C) Jiri Kosina
+[    2.103049] nouveau 0000:06:00.0: NVIDIA GT200 (0a0100b1)
+[    2.556564] ata1.00: READ LOG DMA EXT failed, trying unqueued
+[    2.556725] ata1: failed to read log page 10h (errno=-5)
+[    2.556855] ata1.00: exception Emask 0x1 SAct 0x7800000 SErr 0x0 action 0x0
+[    2.557066] ata1.00: irq_stat 0x40000001
+[    2.557432] ata1.00: failed command: READ FPDMA QUEUED
+[    2.878876] sd 0:0:0:0: [sda] tag#23 Sense Key : Illegal Request [current] [descriptor] 
+[    2.879198] sd 0:0:0:0: [sda] tag#23 Add. Sense: Unaligned write command
+[    2.879521] sd 0:0:0:0: [sda] tag#23 CDB: Read(10) 28 00 00 00 00 04 00 00 02 00
+[   29.870536] asus_wmi: Initialization: 0x0
+[   29.870553] asus_wmi: BIOS WMI version: 0.9
+[   29.870584] asus_wmi: SFUN value: 0x0
+[   29.870850] input: Eee PC WMI hotkeys as /devices/platform/eeepc-wmi/input/input15
+[   29.870922] asus_wmi: Number of fans: 1
+[   31.486023] Adding 33451004k swap on /dev/sdb3.  Priority:-1 extents:1 across:33451004k FS
+[   34.815531] audit: type=1400 audit(1656608406.351:2): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/lxc-start" pid=896 comm="apparmor_parser"
+[   36.998528] cgroup: new mount options do not match the existing superblock, will be ignored
+[   37.798442] r8169 0000:0a:00.0 enp10s0: link down
+[   37.798475] r8169 0000:0a:00.0 enp10s0: link down
+[   37.798492] IPv6: ADDRCONF(NETDEV_UP): enp10s0: link is not ready
+[   40.557236] r8169 0000:0a:00.0 enp10s0: link up
+[   40.557245] IPv6: ADDRCONF(NETDEV_CHANGE): enp10s0: link becomes ready
+[   50.143152] Process accounting resumed
+[   57.775779] ip_tables: (C) 2000-2006 Netfilter Core Team
+[   57.975653] ip6_tables: (C) 2000-2006 Netfilter Core Team
+[   58.174219] Ebtables v2.0 registered
+[   59.493199] bridge: automatic filtering via arp/ip/ip6tables has been deprecated. Update your scripts to load br_netfilter if you need this.
+[   59.552295] device virbr0-nic entered promiscuous mode
+[   61.619465] nf_conntrack version 0.5.0 (65536 buckets, 262144 max)
+[   62.819460] virbr0: port 1(virbr0-nic) entered listening state
+[   62.819466] virbr0: port 1(virbr0-nic) entered listening state
+[   63.795731] virbr0: port 1(virbr0-nic) entered disabled state
+[ 5803.131634] conntrack: generic helper won't handle protocol 47. Please consider loading the specific helper module.
+[41128.567177] Process accounting resumed
+[127525.294232] Process accounting resumed
+[213922.609768] Process accounting resumed
+[300319.923245] Process accounting resumed
+[386717.521820] Process accounting resumed
+[473114.614764] Process accounting resumed
+[559511.479609] Process accounting resumed
+[645909.240540] Process accounting resumed
+[732306.904699] Process accounting resumed
+[818703.753377] Process accounting resumed
+[905100.895616] Process accounting resumed
+[991498.336488] Process accounting resumed
+[1077896.008159] Process accounting resumed
+[1164292.773881] Process accounting resumed
+[1250690.566690] Process accounting resumed
+[1337087.080635] Process accounting resumed
+[1423484.649184] Process accounting resumed
+[1509882.303988] Process accounting resumed
+[1596278.916519] Process accounting resumed
+[1682676.213353] Process accounting resumed
+[1769074.189643] Process accounting resumed
+[1855471.683496] Process accounting resumed
+[1941868.632693] Process accounting resumed
+[2028265.935200] Process accounting resumed
+[2114663.255369] Process accounting resumed
+[2201060.185228] Process accounting resumed
+[2287457.957105] Process accounting resumed
+[2373854.851177] Process accounting resumed
+[2460252.154559] Process accounting resumed
+[2546649.371844] Process accounting resumed
+[2633046.979616] Process accounting resumed
+[2719444.087681] Process accounting resumed
+[2805841.374071] Process accounting resumed
+[2892238.926440] Process accounting resumed
+[2978636.304556] Process accounting resumed
+[3065033.357478] Process accounting resumed
+[3151429.994690] Process accounting resumed
+[3237827.695846] Process accounting resumed
+[3324225.594890] Process accounting resumed
+[3410622.271026] Process accounting resumed
+[3497019.792849] Process accounting resumed
+[3583417.331486] Process accounting resumed
+[3669813.699923] Process accounting resumed
+[3756211.302677] Process accounting resumed
+[3842608.669357] Process accounting resumed
+[3929006.246182] Process accounting resumed
+[4015403.244964] Process accounting resumed
+[4101801.137165] Process accounting resumed
+[4188198.261491] Process accounting resumed
+[4274595.227482] Process accounting resumed
+[4360992.371934] Process accounting resumed
+[4447389.367765] Process accounting resumed
+[4533786.765988] Process accounting resumed
+[4620184.484672] Process accounting resumed
+[4706580.975555] Process accounting resumed
+[4792978.500927] Process accounting resumed
+[4879376.301961] Process accounting resumed
+[4965773.025873] Process accounting resumed
+[5052170.945630] Process accounting resumed
+[5138567.911841] Process accounting resumed
+[5224965.542932] Process accounting resumed
+[5311362.042993] Process accounting resumed
+[5397759.975563] Process accounting resumed
+[5484157.074326] Process accounting resumed
+[5570553.945602] Process accounting resumed
+[5656952.061760] Process accounting resumed
+[5743349.239092] Process accounting resumed
+[5829746.655739] Process accounting resumed
+[5916143.372817] Process accounting resumed
+[6002541.332591] Process accounting resumed
+[6088938.580357] Process accounting resumed
+[6175334.889089] Process accounting resumed
+[6261732.750912] Process accounting resumed
+[6348129.821911] Process accounting resumed
+[6434526.851999] Process accounting resumed
+[6520924.645999] Process accounting resumed
+[6607321.758190] Process accounting resumed
+[6693719.449822] Process accounting resumed
+[6780116.452616] Process accounting resumed
+[6866513.371428] Process accounting resumed
+[6952910.479408] Process accounting resumed
+[7039308.018575] Process accounting resumed
+[7125705.551386] Process accounting resumed
+[7212102.779568] Process accounting resumed
+[7244658.809298] r8169 0000:0a:00.0 enp10s0: link down
+[7244661.996083] r8169 0000:0a:00.0 enp10s0: link up
+[7298499.805324] Process accounting resumed
+[7384897.558585] Process accounting resumed
+[7471294.497347] Process accounting resumed
+[7557691.859025] Process accounting resumed
+[7644089.256138] Process accounting resumed
+[7730486.782396] Process accounting resumed
+[7816884.066835] Process accounting resumed
+[7903281.459613] Process accounting resumed
+[7989678.546742] Process accounting resumed
+[8076076.175282] Process accounting resumed
+[8162473.421532] Process accounting resumed
+[8248870.095298] Process accounting resumed
+[8335267.772303] Process accounting resumed
+[8421664.460902] Process accounting resumed
+[8508061.922391] Process accounting resumed
+[8594459.554528] Process accounting resumed
+[8680856.437084] Process accounting resumed
+[8767253.998628] Process accounting resumed
+[8853650.946739] Process accounting resumed
+[8940048.823569] Process accounting resumed
+[9026445.651980] Process accounting resumed
+[9112842.922458] Process accounting resumed
+[9199240.156088] Process accounting resumed
+[9285637.517484] Process accounting resumed
+[9372034.983491] Process accounting resumed
+[9458431.889766] Process accounting resumed
+[9544829.822267] Process accounting resumed
+[9631226.996263] Process accounting resumed
+[9717624.105670] Process accounting resumed
+[9804021.698662] Process accounting resumed
+[9890419.185640] Process accounting resumed
+[9976816.410164] Process accounting resumed
+[10063213.426439] Process accounting resumed
+[10149610.702334] Process accounting resumed
+[10236008.153779] Process accounting resumed
+[10284125.264222] r8169 0000:0a:00.0 enp10s0: link down
+[10284128.034208] r8169 0000:0a:00.0 enp10s0: link up
+[10284161.563854] r8169 0000:0a:00.0 enp10s0: link down
+[10284164.854956] r8169 0000:0a:00.0 enp10s0: link up
+[10284166.158979] r8169 0000:0a:00.0 enp10s0: link down
+[10284169.229364] r8169 0000:0a:00.0 enp10s0: link up
+[10284183.792401] r8169 0000:0a:00.0 enp10s0: link down
+[10284186.568680] r8169 0000:0a:00.0 enp10s0: link up
+[10320143.194822] r8169 0000:0a:00.0 enp10s0: link down
+[10320146.319209] r8169 0000:0a:00.0 enp10s0: link up
+[10320206.577639] r8169 0000:0a:00.0 enp10s0: link down
+[10320209.922218] r8169 0000:0a:00.0 enp10s0: link up
+[10320253.299532] r8169 0000:0a:00.0 enp10s0: link down
+[10320256.587490] r8169 0000:0a:00.0 enp10s0: link up
+[10320500.377179] r8169 0000:0a:00.0 enp10s0: link down
+[10320503.635806] r8169 0000:0a:00.0 enp10s0: link up
+[10322405.376764] Process accounting resumed
+[10325199.143530] r8169 0000:0a:00.0 enp10s0: link down
+[10325202.293606] r8169 0000:0a:00.0 enp10s0: link up
+[10408802.715681] Process accounting resumed
+[10498799.253481] Process accounting resumed
+[10585197.064821] Process accounting resumed
+[10671593.723065] Process accounting resumed
+[10757991.331224] Process accounting resumed
+[10844388.381893] Process accounting resumed
+[10930786.154117] Process accounting resumed
+[11017183.465155] Process accounting resumed
+[11103580.714573] Process accounting resumed
+[11189977.837922] Process accounting resumed
+[11276375.509875] Process accounting resumed
+[11362772.873081] Process accounting resumed
+[11449170.085475] Process accounting resumed
+[11535567.153907] Process accounting resumed
+[11621964.491479] Process accounting resumed
+[11708361.963896] Process accounting resumed
+[11794758.733131] Process accounting resumed
+[11881156.754191] Process accounting resumed

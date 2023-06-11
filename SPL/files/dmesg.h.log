@@ -1,0 +1,198 @@
+[cze30 18:59] r8169 0000:0a:00.0 enp10s0: renamed from eth0
+[  +0,002296] MXM: GUID detected in BIOS
+[  +0,000762] checking generic (fb000000 300000) vs hw (c0000000 10000000)
+[  +0,000002] checking generic (fb000000 300000) vs hw (fa000000 2000000)
+[  +0,000001] fb: switching to nouveaufb from EFI VGA
+[  +0,000677] Console: switching to colour dummy device 80x25
+[  +0,000125] hidraw: raw HID events driver (C) Jiri Kosina
+[  +0,000052] nouveau 0000:06:00.0: NVIDIA GT200 (0a0100b1)
+[  +0,008635] ata1.00: READ LOG DMA EXT failed, trying unqueued
+[  +0,000161] ata1: failed to read log page 10h (errno=-5)
+[  +0,000130] ata1.00: exception Emask 0x1 SAct 0x7800000 SErr 0x0 action 0x0
+[  +0,000211] ata1.00: irq_stat 0x40000001
+[  +0,000366] ata1.00: failed command: READ FPDMA QUEUED
+                       res 51/04:02:06:00:00/00:00:00:00:00/e0 Emask 0x1 (device error)
+[  +0,000673] ata1.00: status: { DRDY ERR }
+[  +0,000339] ata1.00: error: { ABRT }
+[  +0,000215] asus_wmi: Initialization: 0x0
+[  +0,000017] asus_wmi: BIOS WMI version: 0.9
+[  +0,000031] asus_wmi: SFUN value: 0x0
+[  +0,000266] input: Eee PC WMI hotkeys as /devices/platform/eeepc-wmi/input/input15
+[  +0,000072] asus_wmi: Number of fans: 1
+[  +1,615101] Adding 33451004k swap on /dev/sdb3.  Priority:-1 extents:1 across:33451004k FS
+[  +3,329508] audit: type=1400 audit(1656608406.351:2): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/lxc-start" pid=896 comm="apparmor_parser"
+[  +1,020857] cgroup: new mount options do not match the existing superblock, will be ignored
+[  +0,799914] r8169 0000:0a:00.0 enp10s0: link down
+[  +0,000033] r8169 0000:0a:00.0 enp10s0: link down
+[  +0,000017] IPv6: ADDRCONF(NETDEV_UP): enp10s0: link is not ready
+[  +2,758744] r8169 0000:0a:00.0 enp10s0: link up
+[  +0,000009] IPv6: ADDRCONF(NETDEV_CHANGE): enp10s0: link becomes ready
+[  +9,585907] Process accounting resumed
+[  +7,632627] ip_tables: (C) 2000-2006 Netfilter Core Team
+[  +0,199874] ip6_tables: (C) 2000-2006 Netfilter Core Team
+[  +0,198566] Ebtables v2.0 registered
+[  +1,318980] bridge: automatic filtering via arp/ip/ip6tables has been deprecated. Update your scripts to load br_netfilter if you need this.
+[  +0,059096] device virbr0-nic entered promiscuous mode
+[  +2,067170] nf_conntrack version 0.5.0 (65536 buckets, 262144 max)
+[  +1,199995] virbr0: port 1(virbr0-nic) entered listening state
+[  +0,000006] virbr0: port 1(virbr0-nic) entered listening state
+[  +0,976265] virbr0: port 1(virbr0-nic) entered disabled state
+[cze30 20:36] conntrack: generic helper won't handle protocol 47. Please consider loading the specific helper module.
+[lip 1 06:25] Process accounting resumed
+[lip 2 06:24] Process accounting resumed
+[lip 3 06:24] Process accounting resumed
+[lip 4 06:24] Process accounting resumed
+[lip 5 06:24] Process accounting resumed
+[lip 6 06:24] Process accounting resumed
+[lip 7 06:24] Process accounting resumed
+[lip 8 06:24] Process accounting resumed
+[lip 9 06:24] Process accounting resumed
+[lip10 06:24] Process accounting resumed
+[lip11 06:24] Process accounting resumed
+[lip12 06:24] Process accounting resumed
+[lip13 06:24] Process accounting resumed
+[lip14 06:24] Process accounting resumed
+[lip15 06:24] Process accounting resumed
+[lip16 06:24] Process accounting resumed
+[lip17 06:24] Process accounting resumed
+[lip18 06:24] Process accounting resumed
+[lip19 06:24] Process accounting resumed
+[lip20 06:24] Process accounting resumed
+[lip21 06:24] Process accounting resumed
+[lip22 06:24] Process accounting resumed
+[lip23 06:24] Process accounting resumed
+[lip24 06:23] Process accounting resumed
+[lip25 06:23] Process accounting resumed
+[lip26 06:23] Process accounting resumed
+[lip27 06:23] Process accounting resumed
+[lip28 06:23] Process accounting resumed
+[lip29 06:23] Process accounting resumed
+[lip30 06:23] Process accounting resumed
+[lip31 06:23] Process accounting resumed
+[sie 1 06:23] Process accounting resumed
+[sie 2 06:23] Process accounting resumed
+[sie 3 06:23] Process accounting resumed
+[sie 4 06:23] Process accounting resumed
+[sie 5 06:23] Process accounting resumed
+[sie 6 06:23] Process accounting resumed
+[sie 7 06:23] Process accounting resumed
+[sie 8 06:23] Process accounting resumed
+[sie 9 06:23] Process accounting resumed
+[sie10 06:23] Process accounting resumed
+[sie11 06:23] Process accounting resumed
+[sie12 06:23] Process accounting resumed
+[sie13 06:23] Process accounting resumed
+[sie14 06:23] Process accounting resumed
+[sie15 06:22] Process accounting resumed
+[sie16 06:22] Process accounting resumed
+[sie17 06:22] Process accounting resumed
+[sie18 06:22] Process accounting resumed
+[sie19 06:22] Process accounting resumed
+[sie20 06:22] Process accounting resumed
+[sie21 06:22] Process accounting resumed
+[sie22 06:22] Process accounting resumed
+[sie23 06:22] Process accounting resumed
+[sie24 06:22] Process accounting resumed
+[sie25 06:22] Process accounting resumed
+[sie26 06:22] Process accounting resumed
+[sie27 06:22] Process accounting resumed
+[sie28 06:22] Process accounting resumed
+[sie29 06:22] Process accounting resumed
+[sie30 06:22] Process accounting resumed
+[sie31 06:22] Process accounting resumed
+[wrz 1 06:22] Process accounting resumed
+[wrz 2 06:22] Process accounting resumed
+[wrz 3 06:22] Process accounting resumed
+[wrz 4 06:22] Process accounting resumed
+[wrz 5 06:22] Process accounting resumed
+[wrz 6 06:21] Process accounting resumed
+[wrz 7 06:21] Process accounting resumed
+[wrz 8 06:21] Process accounting resumed
+[wrz 9 06:21] Process accounting resumed
+[wrz10 06:21] Process accounting resumed
+[wrz11 06:21] Process accounting resumed
+[wrz12 06:21] Process accounting resumed
+[wrz13 06:21] Process accounting resumed
+[wrz14 06:21] Process accounting resumed
+[wrz15 06:21] Process accounting resumed
+[wrz16 06:21] Process accounting resumed
+[wrz17 06:21] Process accounting resumed
+[wrz18 06:21] Process accounting resumed
+[wrz19 06:21] Process accounting resumed
+[wrz20 06:21] Process accounting resumed
+[wrz21 06:21] Process accounting resumed
+[wrz22 06:21] Process accounting resumed
+[wrz22 15:23] r8169 0000:0a:00.0 enp10s0: link down
+[  +3,186785] r8169 0000:0a:00.0 enp10s0: link up
+[wrz23 06:21] Process accounting resumed
+[wrz24 06:21] Process accounting resumed
+[wrz25 06:21] Process accounting resumed
+[wrz26 06:21] Process accounting resumed
+[wrz27 06:21] Process accounting resumed
+[wrz28 06:20] Process accounting resumed
+[wrz29 06:20] Process accounting resumed
+[wrz30 06:20] Process accounting resumed
+[paĹş 1 06:20] Process accounting resumed
+[paĹş 2 06:20] Process accounting resumed
+[paĹş 3 06:20] Process accounting resumed
+[paĹş 4 06:20] Process accounting resumed
+[paĹş 5 06:20] Process accounting resumed
+[paĹş 6 06:20] Process accounting resumed
+[paĹş 7 06:20] Process accounting resumed
+[paĹş 8 06:20] Process accounting resumed
+[paĹş 9 06:20] Process accounting resumed
+[paĹş10 06:20] Process accounting resumed
+[paĹş11 06:20] Process accounting resumed
+[paĹş12 06:20] Process accounting resumed
+[paĹş13 06:20] Process accounting resumed
+[paĹş14 06:20] Process accounting resumed
+[paĹş15 06:20] Process accounting resumed
+[paĹş16 06:20] Process accounting resumed
+[paĹş17 06:20] Process accounting resumed
+[paĹş18 06:20] Process accounting resumed
+[paĹş19 06:20] Process accounting resumed
+[paĹş20 06:19] Process accounting resumed
+[paĹş21 06:19] Process accounting resumed
+[paĹş22 06:19] Process accounting resumed
+[paĹş23 06:19] Process accounting resumed
+[paĹş24 06:19] Process accounting resumed
+[paĹş25 06:19] Process accounting resumed
+[paĹş26 06:19] Process accounting resumed
+[paĹş27 06:19] Process accounting resumed
+[paĹş27 19:41] r8169 0000:0a:00.0 enp10s0: link down
+[  +2,769986] r8169 0000:0a:00.0 enp10s0: link up
+[paĹş27 19:42] r8169 0000:0a:00.0 enp10s0: link down
+[  +3,291102] r8169 0000:0a:00.0 enp10s0: link up
+[  +1,304023] r8169 0000:0a:00.0 enp10s0: link down
+[  +3,070385] r8169 0000:0a:00.0 enp10s0: link up
+[ +14,563037] r8169 0000:0a:00.0 enp10s0: link down
+[  +2,776279] r8169 0000:0a:00.0 enp10s0: link up
+[paĹş28 05:41] r8169 0000:0a:00.0 enp10s0: link down
+[  +3,124387] r8169 0000:0a:00.0 enp10s0: link up
+[paĹş28 05:42] r8169 0000:0a:00.0 enp10s0: link down
+[paĹş28 05:43] r8169 0000:0a:00.0 enp10s0: link up
+[ +43,377314] r8169 0000:0a:00.0 enp10s0: link down
+[  +3,287958] r8169 0000:0a:00.0 enp10s0: link up
+[paĹş28 05:47] r8169 0000:0a:00.0 enp10s0: link down
+[  +3,258627] r8169 0000:0a:00.0 enp10s0: link up
+[paĹş28 06:19] Process accounting resumed
+[paĹş28 07:06] r8169 0000:0a:00.0 enp10s0: link down
+[  +3,150076] r8169 0000:0a:00.0 enp10s0: link up
+[paĹş29 06:19] Process accounting resumed
+[paĹş30 06:19] Process accounting resumed
+[paĹş31 06:19] Process accounting resumed
+[lis 1 06:19] Process accounting resumed
+[lis 2 06:19] Process accounting resumed
+[lis 3 06:19] Process accounting resumed
+[lis 4 06:19] Process accounting resumed
+[lis 5 06:19] Process accounting resumed
+[lis 6 06:19] Process accounting resumed
+[lis 7 06:19] Process accounting resumed
+[lis 8 06:19] Process accounting resumed
+[lis 9 06:19] Process accounting resumed
+[lis10 06:19] Process accounting resumed
+[lis11 06:18] Process accounting resumed
+[lis12 06:18] Process accounting resumed
+[lis13 06:18] Process accounting resumed
+[lis14 06:18] Process accounting resumed
+[lis15 06:18] Process accounting resumed

@@ -1,0 +1,205 @@
+[czw cze 30 18:59:34 2022] r8169 0000:0a:00.0 enp10s0: renamed from eth0
+[czw cze 30 18:59:34 2022] MXM: GUID detected in BIOS
+[czw cze 30 18:59:34 2022] checking generic (fb000000 300000) vs hw (c0000000 10000000)
+[czw cze 30 18:59:34 2022] checking generic (fb000000 300000) vs hw (fa000000 2000000)
+[czw cze 30 18:59:34 2022] fb: switching to nouveaufb from EFI VGA
+[czw cze 30 18:59:34 2022] Console: switching to colour dummy device 80x25
+[czw cze 30 18:59:34 2022] hidraw: raw HID events driver (C) Jiri Kosina
+[czw cze 30 18:59:34 2022] nouveau 0000:06:00.0: NVIDIA GT200 (0a0100b1)
+[czw cze 30 18:59:34 2022] usbcore: registered new interface driver usbhid
+[czw cze 30 18:59:34 2022] usbhid: USB HID core driver
+[czw cze 30 18:59:34 2022] input: shengxiangzuo LANBE_KVM47 as /devices/pci0000:00/0000:00:13.0/usb5/5-2/5-2:1.0/0003:04B4:120F.0001/input/input5
+[czw cze 30 18:59:34 2022] hid-generic 0003:04B4:120F.0001: input,hidraw0: USB HID v1.11 Keyboard [shengxiangzuo LANBE_KVM47] on usb-0000:00:13.0-2/input0
+[czw cze 30 19:00:07 2022] audit: type=1400 audit(1656608407.259:11): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/sbin/mysqld" pid=901 comm="apparmor_parser"
+[czw cze 30 19:00:07 2022] cgroup: new mount options do not match the existing superblock, will be ignored
+[czw cze 30 19:00:08 2022] cgroup: new mount options do not match the existing superblock, will be ignored
+[czw cze 30 19:00:09 2022] r8169 0000:0a:00.0 enp10s0: link down
+[czw cze 30 19:00:09 2022] r8169 0000:0a:00.0 enp10s0: link down
+[czw cze 30 19:00:09 2022] IPv6: ADDRCONF(NETDEV_UP): enp10s0: link is not ready
+[czw cze 30 19:00:12 2022] r8169 0000:0a:00.0 enp10s0: link up
+[czw cze 30 19:00:12 2022] IPv6: ADDRCONF(NETDEV_CHANGE): enp10s0: link becomes ready
+[czw cze 30 19:00:22 2022] Process accounting resumed
+[czw cze 30 19:00:29 2022] ip_tables: (C) 2000-2006 Netfilter Core Team
+[czw cze 30 19:00:29 2022] ip6_tables: (C) 2000-2006 Netfilter Core Team
+[czw cze 30 19:00:30 2022] Ebtables v2.0 registered
+[czw cze 30 19:00:31 2022] bridge: automatic filtering via arp/ip/ip6tables has been deprecated. Update your scripts to load br_netfilter if you need this.
+[czw cze 30 19:00:31 2022] device virbr0-nic entered promiscuous mode
+[czw cze 30 19:00:33 2022] nf_conntrack version 0.5.0 (65536 buckets, 262144 max)
+[czw cze 30 19:00:34 2022] virbr0: port 1(virbr0-nic) entered listening state
+[czw cze 30 19:00:34 2022] virbr0: port 1(virbr0-nic) entered listening state
+[czw cze 30 19:00:35 2022] virbr0: port 1(virbr0-nic) entered disabled state
+[czw cze 30 20:36:15 2022] conntrack: generic helper won't handle protocol 47. Please consider loading the specific helper module.
+[piÄ lip  1 06:25:00 2022] Process accounting resumed
+[sob lip  2 06:24:57 2022] Process accounting resumed
+[nie lip  3 06:24:54 2022] Process accounting resumed
+[pon lip  4 06:24:51 2022] Process accounting resumed
+[wto lip  5 06:24:49 2022] Process accounting resumed
+[Ĺro lip  6 06:24:46 2022] Process accounting resumed
+[czw lip  7 06:24:43 2022] Process accounting resumed
+[piÄ lip  8 06:24:41 2022] Process accounting resumed
+[sob lip  9 06:24:38 2022] Process accounting resumed
+[nie lip 10 06:24:35 2022] Process accounting resumed
+[pon lip 11 06:24:32 2022] Process accounting resumed
+[wto lip 12 06:24:30 2022] Process accounting resumed
+[Ĺro lip 13 06:24:28 2022] Process accounting resumed
+[czw lip 14 06:24:24 2022] Process accounting resumed
+[piÄ lip 15 06:24:22 2022] Process accounting resumed
+[sob lip 16 06:24:19 2022] Process accounting resumed
+[nie lip 17 06:24:16 2022] Process accounting resumed
+[pon lip 18 06:24:14 2022] Process accounting resumed
+[wto lip 19 06:24:10 2022] Process accounting resumed
+[Ĺro lip 20 06:24:08 2022] Process accounting resumed
+[czw lip 21 06:24:06 2022] Process accounting resumed
+[piÄ lip 22 06:24:03 2022] Process accounting resumed
+[sob lip 23 06:24:00 2022] Process accounting resumed
+[nie lip 24 06:23:57 2022] Process accounting resumed
+[pon lip 25 06:23:55 2022] Process accounting resumed
+[wto lip 26 06:23:52 2022] Process accounting resumed
+[Ĺro lip 27 06:23:49 2022] Process accounting resumed
+[czw lip 28 06:23:46 2022] Process accounting resumed
+[piÄ lip 29 06:23:44 2022] Process accounting resumed
+[sob lip 30 06:23:41 2022] Process accounting resumed
+[nie lip 31 06:23:38 2022] Process accounting resumed
+[pon sie  1 06:23:36 2022] Process accounting resumed
+[wto sie  2 06:23:33 2022] Process accounting resumed
+[Ĺro sie  3 06:23:30 2022] Process accounting resumed
+[czw sie  4 06:23:28 2022] Process accounting resumed
+[piÄ sie  5 06:23:25 2022] Process accounting resumed
+[sob sie  6 06:23:21 2022] Process accounting resumed
+[nie sie  7 06:23:19 2022] Process accounting resumed
+[pon sie  8 06:23:17 2022] Process accounting resumed
+[wto sie  9 06:23:14 2022] Process accounting resumed
+[Ĺro sie 10 06:23:11 2022] Process accounting resumed
+[czw sie 11 06:23:09 2022] Process accounting resumed
+[piÄ sie 12 06:23:05 2022] Process accounting resumed
+[sob sie 13 06:23:03 2022] Process accounting resumed
+[nie sie 14 06:23:00 2022] Process accounting resumed
+[pon sie 15 06:22:58 2022] Process accounting resumed
+[wto sie 16 06:22:55 2022] Process accounting resumed
+[Ĺro sie 17 06:22:53 2022] Process accounting resumed
+[czw sie 18 06:22:50 2022] Process accounting resumed
+[piÄ sie 19 06:22:47 2022] Process accounting resumed
+[sob sie 20 06:22:44 2022] Process accounting resumed
+[nie sie 21 06:22:41 2022] Process accounting resumed
+[pon sie 22 06:22:38 2022] Process accounting resumed
+[wto sie 23 06:22:36 2022] Process accounting resumed
+[Ĺro sie 24 06:22:32 2022] Process accounting resumed
+[czw sie 25 06:22:30 2022] Process accounting resumed
+[piÄ sie 26 06:22:28 2022] Process accounting resumed
+[sob sie 27 06:22:25 2022] Process accounting resumed
+[nie sie 28 06:22:22 2022] Process accounting resumed
+[pon sie 29 06:22:19 2022] Process accounting resumed
+[wto sie 30 06:22:17 2022] Process accounting resumed
+[Ĺro sie 31 06:22:14 2022] Process accounting resumed
+[czw wrz  1 06:22:11 2022] Process accounting resumed
+[piÄ wrz  2 06:22:09 2022] Process accounting resumed
+[sob wrz  3 06:22:05 2022] Process accounting resumed
+[nie wrz  4 06:22:04 2022] Process accounting resumed
+[pon wrz  5 06:22:01 2022] Process accounting resumed
+[wto wrz  6 06:21:58 2022] Process accounting resumed
+[Ĺro wrz  7 06:21:55 2022] Process accounting resumed
+[czw wrz  8 06:21:53 2022] Process accounting resumed
+[piÄ wrz  9 06:21:50 2022] Process accounting resumed
+[sob wrz 10 06:21:46 2022] Process accounting resumed
+[nie wrz 11 06:21:44 2022] Process accounting resumed
+[pon wrz 12 06:21:41 2022] Process accounting resumed
+[wto wrz 13 06:21:38 2022] Process accounting resumed
+[Ĺro wrz 14 06:21:36 2022] Process accounting resumed
+[czw wrz 15 06:21:33 2022] Process accounting resumed
+[piÄ wrz 16 06:21:31 2022] Process accounting resumed
+[sob wrz 17 06:21:28 2022] Process accounting resumed
+[nie wrz 18 06:21:25 2022] Process accounting resumed
+[pon wrz 19 06:21:22 2022] Process accounting resumed
+[wto wrz 20 06:21:20 2022] Process accounting resumed
+[Ĺro wrz 21 06:21:17 2022] Process accounting resumed
+[czw wrz 22 06:21:14 2022] Process accounting resumed
+[czw wrz 22 15:23:50 2022] r8169 0000:0a:00.0 enp10s0: link down
+[czw wrz 22 15:23:53 2022] r8169 0000:0a:00.0 enp10s0: link up
+[piÄ wrz 23 06:21:11 2022] Process accounting resumed
+[sob wrz 24 06:21:09 2022] Process accounting resumed
+[nie wrz 25 06:21:06 2022] Process accounting resumed
+[pon wrz 26 06:21:03 2022] Process accounting resumed
+[wto wrz 27 06:21:01 2022] Process accounting resumed
+[Ĺro wrz 28 06:20:58 2022] Process accounting resumed
+[czw wrz 29 06:20:56 2022] Process accounting resumed
+[piÄ wrz 30 06:20:53 2022] Process accounting resumed
+[sob paĹş  1 06:20:50 2022] Process accounting resumed
+[nie paĹş  2 06:20:48 2022] Process accounting resumed
+[pon paĹş  3 06:20:45 2022] Process accounting resumed
+[wto paĹş  4 06:20:42 2022] Process accounting resumed
+[Ĺro paĹş  5 06:20:39 2022] Process accounting resumed
+[czw paĹş  6 06:20:36 2022] Process accounting resumed
+[piÄ paĹş  7 06:20:33 2022] Process accounting resumed
+[sob paĹş  8 06:20:31 2022] Process accounting resumed
+[nie paĹş  9 06:20:28 2022] Process accounting resumed
+[pon paĹş 10 06:20:25 2022] Process accounting resumed
+[wto paĹş 11 06:20:22 2022] Process accounting resumed
+[Ĺro paĹş 12 06:20:20 2022] Process accounting resumed
+[czw paĹş 13 06:20:17 2022] Process accounting resumed
+[piÄ paĹş 14 06:20:14 2022] Process accounting resumed
+[sob paĹş 15 06:20:12 2022] Process accounting resumed
+[nie paĹş 16 06:20:09 2022] Process accounting resumed
+[pon paĹş 17 06:20:06 2022] Process accounting resumed
+[wto paĹş 18 06:20:03 2022] Process accounting resumed
+[Ĺro paĹş 19 06:20:01 2022] Process accounting resumed
+[czw paĹş 20 06:19:58 2022] Process accounting resumed
+[piÄ paĹş 21 06:19:56 2022] Process accounting resumed
+[sob paĹş 22 06:19:53 2022] Process accounting resumed
+[nie paĹş 23 06:19:51 2022] Process accounting resumed
+[pon paĹş 24 06:19:48 2022] Process accounting resumed
+[wto paĹş 25 06:19:45 2022] Process accounting resumed
+[Ĺro paĹş 26 06:19:42 2022] Process accounting resumed
+[czw paĹş 27 06:19:40 2022] Process accounting resumed
+[czw paĹş 27 19:41:37 2022] r8169 0000:0a:00.0 enp10s0: link down
+[czw paĹş 27 19:41:40 2022] r8169 0000:0a:00.0 enp10s0: link up
+[czw paĹş 27 19:42:13 2022] r8169 0000:0a:00.0 enp10s0: link down
+[czw paĹş 27 19:42:16 2022] r8169 0000:0a:00.0 enp10s0: link up
+[czw paĹş 27 19:42:18 2022] r8169 0000:0a:00.0 enp10s0: link down
+[czw paĹş 27 19:42:21 2022] r8169 0000:0a:00.0 enp10s0: link up
+[czw paĹş 27 19:42:35 2022] r8169 0000:0a:00.0 enp10s0: link down
+[czw paĹş 27 19:42:38 2022] r8169 0000:0a:00.0 enp10s0: link up
+[piÄ paĹş 28 05:41:55 2022] r8169 0000:0a:00.0 enp10s0: link down
+[piÄ paĹş 28 05:41:58 2022] r8169 0000:0a:00.0 enp10s0: link up
+[piÄ paĹş 28 05:42:58 2022] r8169 0000:0a:00.0 enp10s0: link down
+[piÄ paĹş 28 05:43:01 2022] r8169 0000:0a:00.0 enp10s0: link up
+[piÄ paĹş 28 05:43:45 2022] r8169 0000:0a:00.0 enp10s0: link down
+[piÄ paĹş 28 05:43:48 2022] r8169 0000:0a:00.0 enp10s0: link up
+[piÄ paĹş 28 05:47:52 2022] r8169 0000:0a:00.0 enp10s0: link down
+[piÄ paĹş 28 05:47:55 2022] r8169 0000:0a:00.0 enp10s0: link up
+[piÄ paĹş 28 06:19:37 2022] Process accounting resumed
+[piÄ paĹş 28 07:06:11 2022] r8169 0000:0a:00.0 enp10s0: link down
+[piÄ paĹş 28 07:06:14 2022] r8169 0000:0a:00.0 enp10s0: link up
+[sob paĹş 29 06:19:34 2022] Process accounting resumed
+[nie paĹş 30 06:19:31 2022] Process accounting resumed
+[pon paĹş 31 06:19:29 2022] Process accounting resumed
+[wto lis  1 06:19:25 2022] Process accounting resumed
+[Ĺro lis  2 06:19:23 2022] Process accounting resumed
+[czw lis  3 06:19:20 2022] Process accounting resumed
+[piÄ lis  4 06:19:18 2022] Process accounting resumed
+[sob lis  5 06:19:15 2022] Process accounting resumed
+[nie lis  6 06:19:12 2022] Process accounting resumed
+[pon lis  7 06:19:09 2022] Process accounting resumed
+[wto lis  8 06:19:07 2022] Process accounting resumed
+[Ĺro lis  9 06:19:04 2022] Process accounting resumed
+[czw lis 10 06:19:02 2022] Process accounting resumed
+[piÄ lis 11 06:18:59 2022] Process accounting resumed
+[sob lis 12 06:18:56 2022] Process accounting resumed
+[nie lis 13 06:18:53 2022] Process accounting resumed
+[pon lis 14 06:18:50 2022] Process accounting resumed
+[wto lis 15 06:18:48 2022] Process accounting resumed
+[Ĺro lis 16 06:18:45 2022] Process accounting resumed
+[czw lis 17 06:18:42 2022] Process accounting resumed
+[piÄ lis 18 06:18:40 2022] Process accounting resumed
+[sob lis 19 06:18:37 2022] Process accounting resumed
+[nie lis 20 06:18:34 2022] Process accounting resumed
+[pon lis 21 06:18:32 2022] Process accounting resumed
+[wto lis 22 06:18:29 2022] Process accounting resumed
+[Ĺro lis 23 06:18:26 2022] Process accounting resumed
+[czw lis 24 06:18:23 2022] Process accounting resumed
+[piÄ lis 25 06:18:20 2022] Process accounting resumed
+[sob lis 26 06:18:18 2022] Process accounting resumed
+[nie lis 27 06:18:15 2022] Process accounting resumed
+[pon lis 28 06:18:13 2022] Process accounting resumed
+[wto lis 29 06:18:09 2022] Process accounting resumed
+[Ĺro lis 30 06:18:07 2022] Process accounting resumed
+[czw gru  1 06:18:05 2022] Process accounting resumed

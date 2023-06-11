@@ -1,0 +1,34 @@
+Niniejszy tekst jest tekstem przykĹadowym. Jego zadaniem jest unaoczniÄ
+iloĹÄ znakĂłw mieszczÄcych siÄ najednej stronie obliczeniowej oraz
+wyjaĹniÄ, dlaczego cenÄ za tĹumaczenie oblicza siÄ na podstawie
+liczby stron obliczeniowych, a nie na podstawie liczby stron A4.
+
+Jako "znak na stronie" uwaĹźa siÄ wpisanie
+kaĹźdego klawisza z klawiatury w edytorze tekstu na
+komputerze. Znakiem jest kaĹźda litera, cyfra, znaki
+specjalne, kropka, tabulator, a nawet spacja. Jako
+jednÄ stronÄ obliczeniowÄ uwaĹźa siÄ stronÄ,
+na ktĂłrej wystÄpuje 1500 znakĂłw. Takie obliczenie
+obowiÄzuje w tĹumaczeniu zwykĹym, a wiÄc niepodbitym
+okrÄgĹÄ pieczÄciÄ tĹumacza przysiÄgĹego. NiektĂłrzy
+tĹumacze stosujÄ rĂłwnieĹź numeracjÄ 1800 znakĂłw. W
+przypadku tĹumaczeĹ poĹwiadczonych (bĹÄdnie nazywanych
+"przysiÄgĹymi")  podbitych     pieczÄciÄ   tĹumacza   i
+opatrzonych   formuĹÄ poĹwiadczajÄcÄ (informacjÄ
+poĹwiadczajÄcÄ, Ĺźe tĹumaczenie jest zgodne z
+oryginaĹem, za stronÄ obliczeniowÄ uwaĹźa siÄ stronÄ,
+na ktĂłrej wystÄpuje 1125 znakĂłw.
+
+Na niniejszej stronie jak dotÄd zapisano 1117 znakĂłw, wliczajÄc
+niniejsze zdanie do kropki oraz wĹÄcznie z cyfrÄ zapisanÄ w tym
+zdaniu. TĹumaczenie poĹwiadczone zawiera wiÄc mniej znakĂłw niĹź
+tĹumaczenie zwykĹe, co wynika z RozporzÄdzenia Ministra SprawiedliwoĹci
+o zawodzie tĹumacza przysiÄgĹego, jednakĹźe koszt za oba rodzaje
+tĹumaczenia jestczÄsto jednakowy, bÄdĹş podobny. Na niniejszej
+stronie jak dotÄd zapisano 1488 znakĂłw, wliczajÄc niniejsze zdanie
+do kropki oraz wĹÄcznie z liczbÄ zapisanÄ w tym zdaniu. Jak widaÄ,
+strona liczÄca 1500 znakĂłw nie jest tak obszerna, jak zapisana strona
+A4. Na stronie zastosowanomaĹe przerwy pomiÄdzy wierszami (interlinia
+pojedyncza).  Na  niniejszej  stronie  zapisano  jak  dotÄd  1800
+znakĂłw, wliczajÄc   niniejsze  zdanie  do  kropki    oraz
+wĹÄcznie  z liczbÄ zapisanÄ w tym zdaniu.

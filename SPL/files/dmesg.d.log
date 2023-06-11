@@ -1,0 +1,195 @@
+[    2.099134 <    0,000000>] r8169 0000:0a:00.0 enp10s0: renamed from eth0
+[    2.101430 <    0,002296>] MXM: GUID detected in BIOS
+[    2.102192 <    0,000762>] checking generic (fb000000 300000) vs hw (c0000000 10000000)
+[    2.102194 <    0,000002>] checking generic (fb000000 300000) vs hw (fa000000 2000000)
+[    2.102195 <    0,000001>] fb: switching to nouveaufb from EFI VGA
+[    2.102872 <    0,000677>] Console: switching to colour dummy device 80x25
+[    2.102997 <    0,000125>] hidraw: raw HID events driver (C) Jiri Kosina
+[    2.103049 <    0,000052>] nouveau 0000:06:00.0: NVIDIA GT200 (0a0100b1)
+[    2.545310 <    0,000030>] sd 0:0:0:0: Attached scsi generic sg0 type 0
+[    2.545372 <    0,000062>] sd 0:0:0:0: [sda] Write Protect is off
+[    2.545384 <    0,000012>] sd 0:0:0:0: [sda] Mode Sense: 00 3a 00 00
+[    2.545422 <    0,000038>] sd 0:0:0:0: [sda] Write cache: enabled, read cache: enabled, doesn't support DPO or FUA
+[    2.545572 <    0,000150>] ata2.00: ATA-9: ST2000VN004-2E4164, SC60, max UDMA/133
+[    2.836693 <    0,000118>] ata1.00: irq_stat 0x40000001
+[    2.836806 <    0,000113>] ata1.00: failed command: READ DMA
+[    2.837016 <    0,000210>] ata1.00: cmd c8/00:02:04:00:00/00:00:00:00:00/e0 tag 13 dma 1024 in
+[   29.870850 <    0,000266>] input: Eee PC WMI hotkeys as /devices/platform/eeepc-wmi/input/input15
+[   29.870922 <    0,000072>] asus_wmi: Number of fans: 1
+[   31.486023 <    1,615101>] Adding 33451004k swap on /dev/sdb3.  Priority:-1 extents:1 across:33451004k FS
+[   34.815531 <    3,329508>] audit: type=1400 audit(1656608406.351:2): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/bin/lxc-start" pid=896 comm="apparmor_parser"
+[   35.078394 <    0,262863>] audit: type=1400 audit(1656608406.611:3): apparmor="STATUS" operation="profile_load" profile="unconfined" name="lxc-container-default" pid=893 comm="apparmor_parser"
+[   35.078400 <    0,000006>] audit: type=1400 audit(1656608406.611:4): apparmor="STATUS" operation="profile_load" profile="unconfined" name="lxc-container-default-cgns" pid=893 comm="apparmor_parser"
+[   35.078404 <    0,000004>] audit: type=1400 audit(1656608406.611:5): apparmor="STATUS" operation="profile_load" profile="unconfined" name="lxc-container-default-with-mounting" pid=893 comm="apparmor_parser"
+[   37.798492 <    0,000017>] IPv6: ADDRCONF(NETDEV_UP): enp10s0: link is not ready
+[   40.557236 <    2,758744>] r8169 0000:0a:00.0 enp10s0: link up
+[   40.557245 <    0,000009>] IPv6: ADDRCONF(NETDEV_CHANGE): enp10s0: link becomes ready
+[   50.143152 <    9,585907>] Process accounting resumed
+[   57.775779 <    7,632627>] ip_tables: (C) 2000-2006 Netfilter Core Team
+[   57.975653 <    0,199874>] ip6_tables: (C) 2000-2006 Netfilter Core Team
+[   58.174219 <    0,198566>] Ebtables v2.0 registered
+[   59.493199 <    1,318980>] bridge: automatic filtering via arp/ip/ip6tables has been deprecated. Update your scripts to load br_netfilter if you need this.
+[   59.552295 <    0,059096>] device virbr0-nic entered promiscuous mode
+[   61.619465 <    2,067170>] nf_conntrack version 0.5.0 (65536 buckets, 262144 max)
+[   62.819460 <    1,199995>] virbr0: port 1(virbr0-nic) entered listening state
+[   62.819466 <    0,000006>] virbr0: port 1(virbr0-nic) entered listening state
+[   63.795731 <    0,976265>] virbr0: port 1(virbr0-nic) entered disabled state
+[ 5803.131634 < 5739,335903>] conntrack: generic helper won't handle protocol 47. Please consider loading the specific helper module.
+[41128.567177 <35325,435543>] Process accounting resumed
+[127525.294232 <86396,727055>] Process accounting resumed
+[213922.609768 <86397,315536>] Process accounting resumed
+[300319.923245 <86397,313477>] Process accounting resumed
+[386717.521820 <86397,598575>] Process accounting resumed
+[473114.614764 <86397,092944>] Process accounting resumed
+[559511.479609 <86396,864845>] Process accounting resumed
+[645909.240540 <86397,760931>] Process accounting resumed
+[732306.904699 <86397,664159>] Process accounting resumed
+[818703.753377 <86396,848678>] Process accounting resumed
+[905100.895616 <86397,142239>] Process accounting resumed
+[991498.336488 <86397,440872>] Process accounting resumed
+[1077896.008159 <86397,671671>] Process accounting resumed
+[1164292.773881 <86396,765722>] Process accounting resumed
+[1250690.566690 <86397,792809>] Process accounting resumed
+[1337087.080635 <86396,513945>] Process accounting resumed
+[1423484.649184 <86397,568549>] Process accounting resumed
+[1509882.303988 <86397,654804>] Process accounting resumed
+[1596278.916519 <86396,612531>] Process accounting resumed
+[1682676.213353 <86397,296834>] Process accounting resumed
+[1769074.189643 <86397,976290>] Process accounting resumed
+[1855471.683496 <86397,493853>] Process accounting resumed
+[1941868.632693 <86396,949197>] Process accounting resumed
+[2028265.935200 <86397,302507>] Process accounting resumed
+[2114663.255369 <86397,320169>] Process accounting resumed
+[2201060.185228 <86396,929859>] Process accounting resumed
+[2287457.957105 <86397,771877>] Process accounting resumed
+[2373854.851177 <86396,894072>] Process accounting resumed
+[2460252.154559 <86397,303382>] Process accounting resumed
+[2546649.371844 <86397,217285>] Process accounting resumed
+[2633046.979616 <86397,607772>] Process accounting resumed
+[2719444.087681 <86397,108065>] Process accounting resumed
+[2805841.374071 <86397,286390>] Process accounting resumed
+[2892238.926440 <86397,552369>] Process accounting resumed
+[2978636.304556 <86397,378116>] Process accounting resumed
+[3065033.357478 <86397,052922>] Process accounting resumed
+[3151429.994690 <86396,637212>] Process accounting resumed
+[3237827.695846 <86397,701156>] Process accounting resumed
+[3324225.594890 <86397,899044>] Process accounting resumed
+[3410622.271026 <86396,676136>] Process accounting resumed
+[3497019.792849 <86397,521823>] Process accounting resumed
+[3583417.331486 <86397,538637>] Process accounting resumed
+[3669813.699923 <86396,368437>] Process accounting resumed
+[3756211.302677 <86397,602754>] Process accounting resumed
+[3842608.669357 <86397,366680>] Process accounting resumed
+[3929006.246182 <86397,576825>] Process accounting resumed
+[4015403.244964 <86396,998782>] Process accounting resumed
+[4101801.137165 <86397,892201>] Process accounting resumed
+[4188198.261491 <86397,124326>] Process accounting resumed
+[4274595.227482 <86396,965991>] Process accounting resumed
+[4360992.371934 <86397,144452>] Process accounting resumed
+[4447389.367765 <86396,995831>] Process accounting resumed
+[4533786.765988 <86397,398223>] Process accounting resumed
+[4620184.484672 <86397,718684>] Process accounting resumed
+[4706580.975555 <86396,490883>] Process accounting resumed
+[4792978.500927 <86397,525372>] Process accounting resumed
+[4879376.301961 <86397,801034>] Process accounting resumed
+[4965773.025873 <86396,723912>] Process accounting resumed
+[5052170.945630 <86397,919757>] Process accounting resumed
+[5138567.911841 <86396,966211>] Process accounting resumed
+[5224965.542932 <86397,631091>] Process accounting resumed
+[5311362.042993 <86396,500061>] Process accounting resumed
+[5397759.975563 <86397,932570>] Process accounting resumed
+[5484157.074326 <86397,098763>] Process accounting resumed
+[5570553.945602 <86396,871276>] Process accounting resumed
+[5656952.061760 <86398,116158>] Process accounting resumed
+[5743349.239092 <86397,177332>] Process accounting resumed
+[5829746.655739 <86397,416647>] Process accounting resumed
+[5916143.372817 <86396,717078>] Process accounting resumed
+[6002541.332591 <86397,959774>] Process accounting resumed
+[6088938.580357 <86397,247766>] Process accounting resumed
+[6175334.889089 <86396,308732>] Process accounting resumed
+[6261732.750912 <86397,861823>] Process accounting resumed
+[6348129.821911 <86397,070999>] Process accounting resumed
+[6434526.851999 <86397,030088>] Process accounting resumed
+[6520924.645999 <86397,794000>] Process accounting resumed
+[6607321.758190 <86397,112191>] Process accounting resumed
+[6693719.449822 <86397,691632>] Process accounting resumed
+[6780116.452616 <86397,002794>] Process accounting resumed
+[6866513.371428 <86396,918812>] Process accounting resumed
+[6952910.479408 <86397,107980>] Process accounting resumed
+[7039308.018575 <86397,539167>] Process accounting resumed
+[7125705.551386 <86397,532811>] Process accounting resumed
+[7212102.779568 <86397,228182>] Process accounting resumed
+[7244658.809298 <32556,029730>] r8169 0000:0a:00.0 enp10s0: link down
+[7244661.996083 <    3,186785>] r8169 0000:0a:00.0 enp10s0: link up
+[7298499.805324 <53837,809241>] Process accounting resumed
+[7384897.558585 <86397,753261>] Process accounting resumed
+[7471294.497347 <86396,938762>] Process accounting resumed
+[7557691.859025 <86397,361678>] Process accounting resumed
+[7644089.256138 <86397,397113>] Process accounting resumed
+[7730486.782396 <86397,526258>] Process accounting resumed
+[7816884.066835 <86397,284439>] Process accounting resumed
+[7903281.459613 <86397,392778>] Process accounting resumed
+[7989678.546742 <86397,087129>] Process accounting resumed
+[8076076.175282 <86397,628540>] Process accounting resumed
+[8162473.421532 <86397,246250>] Process accounting resumed
+[8248870.095298 <86396,673766>] Process accounting resumed
+[8335267.772303 <86397,677005>] Process accounting resumed
+[8421664.460902 <86396,688599>] Process accounting resumed
+[8508061.922391 <86397,461489>] Process accounting resumed
+[8594459.554528 <86397,632137>] Process accounting resumed
+[8680856.437084 <86396,882556>] Process accounting resumed
+[8767253.998628 <86397,561544>] Process accounting resumed
+[8853650.946739 <86396,948111>] Process accounting resumed
+[8940048.823569 <86397,876830>] Process accounting resumed
+[9026445.651980 <86396,828411>] Process accounting resumed
+[9112842.922458 <86397,270478>] Process accounting resumed
+[9199240.156088 <86397,233630>] Process accounting resumed
+[9285637.517484 <86397,361396>] Process accounting resumed
+[9372034.983491 <86397,466007>] Process accounting resumed
+[9458431.889766 <86396,906275>] Process accounting resumed
+[9544829.822267 <86397,932501>] Process accounting resumed
+[9631226.996263 <86397,173996>] Process accounting resumed
+[9717624.105670 <86397,109407>] Process accounting resumed
+[9804021.698662 <86397,592992>] Process accounting resumed
+[9890419.185640 <86397,486978>] Process accounting resumed
+[9976816.410164 <86397,224524>] Process accounting resumed
+[10063213.426439 <86397,016275>] Process accounting resumed
+[10149610.702334 <86397,275895>] Process accounting resumed
+[10236008.153779 <86397,451445>] Process accounting resumed
+[10284125.264222 <48117,110443>] r8169 0000:0a:00.0 enp10s0: link down
+[10284128.034208 <    2,769986>] r8169 0000:0a:00.0 enp10s0: link up
+[10284161.563854 <   33,529646>] r8169 0000:0a:00.0 enp10s0: link down
+[10284164.854956 <    3,291102>] r8169 0000:0a:00.0 enp10s0: link up
+[10284166.158979 <    1,304023>] r8169 0000:0a:00.0 enp10s0: link down
+[10284169.229364 <    3,070385>] r8169 0000:0a:00.0 enp10s0: link up
+[10284183.792401 <   14,563037>] r8169 0000:0a:00.0 enp10s0: link down
+[10284186.568680 <    2,776279>] r8169 0000:0a:00.0 enp10s0: link up
+[10320143.194822 <35956,626142>] r8169 0000:0a:00.0 enp10s0: link down
+[10320146.319209 <    3,124387>] r8169 0000:0a:00.0 enp10s0: link up
+[10320206.577639 <   60,258430>] r8169 0000:0a:00.0 enp10s0: link down
+[10320209.922218 <    3,344579>] r8169 0000:0a:00.0 enp10s0: link up
+[10320253.299532 <   43,377314>] r8169 0000:0a:00.0 enp10s0: link down
+[10320256.587490 <    3,287958>] r8169 0000:0a:00.0 enp10s0: link up
+[10320500.377179 <  243,789689>] r8169 0000:0a:00.0 enp10s0: link down
+[10320503.635806 <    3,258627>] r8169 0000:0a:00.0 enp10s0: link up
+[10322405.376764 < 1901,740958>] Process accounting resumed
+[10325199.143530 < 2793,766766>] r8169 0000:0a:00.0 enp10s0: link down
+[10325202.293606 <    3,150076>] r8169 0000:0a:00.0 enp10s0: link up
+[10408802.715681 <83600,422075>] Process accounting resumed
+[10498799.253481 <89996,537800>] Process accounting resumed
+[10585197.064821 <86397,811340>] Process accounting resumed
+[10671593.723065 <86396,658244>] Process accounting resumed
+[10757991.331224 <86397,608159>] Process accounting resumed
+[10844388.381893 <86397,050669>] Process accounting resumed
+[10930786.154117 <86397,772224>] Process accounting resumed
+[11017183.465155 <86397,311038>] Process accounting resumed
+[11103580.714573 <86397,249418>] Process accounting resumed
+[11189977.837922 <86397,123349>] Process accounting resumed
+[11276375.509875 <86397,671953>] Process accounting resumed
+[11362772.873081 <86397,363206>] Process accounting resumed
+[11449170.085475 <86397,212394>] Process accounting resumed
+[11535567.153907 <86397,068432>] Process accounting resumed
+[11621964.491479 <86397,337572>] Process accounting resumed
+[11708361.963896 <86397,472417>] Process accounting resumed
+[11794758.733131 <86396,769235>] Process accounting resumed
+[11881156.754191 <86398,021060>] Process accounting resumed
